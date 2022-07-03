@@ -8,10 +8,10 @@ Module.register("compliments", {
 	// Module config defaults.
 	defaults: {
 		compliments: {
-			anytime: ["Hey there sexy!"],
-			morning: ["Good morning, handsome!", "Enjoy your day!", "How was your sleep?"],
-			afternoon: ["Hello, beauty!", "You look sexy!", "Looking good today!"],
-			evening: ["Wow, you look hot!", "You look nice!", "Hi, sexy!"],
+			anytime: ["布鲁克林的希望"],
+			morning: ["早上好! 玮姐 Cody 冉乐乐", "Enjoy your day!", "How was your sleep?"],
+			afternoon: ["下午了，今天刷题了吗？", "健身，健身，健身，健身！", "困就睡一会吧！"],
+			evening: ["吃点喝点真美味呀!", "Cody，要不要喝点？", "玮姐，夜宵吃什么呢？"],
 			"....-01-01": ["Happy new year!"]
 		},
 		updateInterval: 30000,
